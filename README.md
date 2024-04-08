@@ -7,10 +7,4 @@ My class : OSSPrac > pull 위해서
 
 My name : Jongwon Han  
 학번 : 2019112458  
-Date : 27 March 2024  
-
-A  
-B  
-C  
-D  
-E  
+Date : 27 March 2024    
